@@ -1,7 +1,8 @@
 # BcwareCleanerWindows
 Cleaner Windows
 
-![image](https://user-images.githubusercontent.com/79174725/130980071-d563758a-14b7-4cfa-84cb-635ceabe469f.png)
+![image](https://user-images.githubusercontent.com/79174725/131002712-cb186d13-9865-40b0-a862-94c0ba4fb5e3.png)
+
 
 ### Supported programs:
 > Spotify, Steam, Discord, Team Speek 3, Overwolf, Xamarin, WhatsApp,
